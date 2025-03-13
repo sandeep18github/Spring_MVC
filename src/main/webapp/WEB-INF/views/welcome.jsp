@@ -7,6 +7,7 @@
 <body>
     <h1>${msg}</h1>
         <a href="/webapp">Go Home</a>
+        <a href="/Hello">Message</a>
 
 </body>
 </html>
